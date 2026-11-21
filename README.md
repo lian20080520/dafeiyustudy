@@ -4,7 +4,9 @@
 
 把「今天要学什么」变成「今天有一只鱼要喂」。
 
-> 在线体验：<https://dafeiyu-study.app.workbuddy.host/?sharecode=U6I5KQ5ZHB>
+> 在线体验：<https://lian20080520.github.io/dafeiyustudy/>
+>
+> 备用地址：<https://dafeiyu-study.app.workbuddy.host/?sharecode=U6I5KQ5ZHB>
 
 ---
 
